@@ -1,5 +1,6 @@
 Weights and pretrained model
 http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/
 
+
 load tensorflow model into keras
 https://stackoverflow.com/questions/53897220/using-pre-trained-weights-in-alexnet-model-in-keras
